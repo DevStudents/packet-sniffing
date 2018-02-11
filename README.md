@@ -13,6 +13,7 @@ $ sudo python sniffer.py
 
 ## TODO
 
-* search by address
-* search by ports
-* search by multiple addresses and ports
+* ~~search by address~~
+* ~~search by ports~~
+* ~~search by multiple addresses and ports~~
+* verbose output
